@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hola! Mi nombre es Alberto
 
-<!--
-**VillanuevaAqui/VillanuevaAqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador java fullstack 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Diseñe, construí e implemente una e-commerce dedicada a la venta de alimentos preparados mediante metodos de compra y suscripción,
+Utilice las métodolofias agiles para el flujo del desarrollo mediante el marco de trabao SCRUM.
+
+Me apasiona todo lo relacionado a la ciencia y tecnología, desde pequeño convivo con la tecnología y toda mi educación fue orientada
+a la misma, desde el 2019 me empezó a apasionar la ciencia, la divulgación científica y la enseñanza.
+
+Mi objetivo profesional es ser un referente en el sector tecnológico - Educativo.
+
+## Lenguages
+
+- Python
+- HTML 5
+- CSS 3
+- JavaScript
+- Java
+  
+## Frameworks
+
+- PyQT
+- React
+- Bootstrap
+
+## Contact Me
+
+- [Gmail](mailto:VillanuevaAqui2017@gmail.com)
+- [Linkedin](linkedin.com/in/alberto-villanueva-aquino/)
+- [Github secundario](github.com/aether_stray)
