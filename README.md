@@ -29,5 +29,5 @@ Mi objetivo profesional es ser un referente en el sector tecnológico - Educativ
 ## Contact Me
 
 - [Gmail](mailto:VillanuevaAqui2017@gmail.com)
-- [Linkedin](linkedin.com/in/alberto-villanueva-aquino/)
-- [Github secundario](github.com/aether_stray)
+- [Linkedin](https://www.linkedin.com/in/alberto-villanueva-aquino/)
+- [Github secundario](https://www.github.com/aetherStray)
